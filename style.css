@@ -5,7 +5,7 @@
 }
 
 .bg-dark {
-    background-color: #000000; 
+    background-color: #000000;
 }
 
 .bg-primary {
@@ -53,8 +53,8 @@
 
 }
 
-/*  
-    For all the contact files 
+/*
+    For all the contact files
     Remember that contact goes inside card.
      Do check before inserting.
 */
@@ -86,4 +86,11 @@
     font-weight: 900;
     font-size: 24px;
     line-height: 28px;
+}
+
+/* GALLERY */
+
+.galimg{
+  height: 85vh;
+  width: 95vw;
 }
